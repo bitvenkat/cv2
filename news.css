@@ -1,0 +1,104 @@
+body{
+    margin:0;
+    text-align: center;
+    background: #defefa;
+    color: rgb(93, 102, 102);
+    font-weight: 500;
+ }
+
+.hr{
+border-top: 6px dotted grey;
+width: 5%;
+margin-bottom: 100px;
+
+}
+h1{
+font-family: Sacramento;
+margin: 50px auto 0 auto;
+font-size: 90px;
+font-weight: bold;
+color: #66bfbf;
+
+}
+
+.ok{
+text-align: right;
+}
+h2{
+font-family: Montserrat, serif;
+font-size: 40px;
+color: #66bfbf;
+font-weight: 500;
+padding: 10px;
+}
+
+
+h3{
+font-family: Montserrat, serif;
+color: #5dc3b5;
+}
+
+.topnav{
+background-color:#defefa;
+font-family:Montserrat, serif ;
+padding-top: 30px;
+padding-bottom: 5px;
+
+}
+
+
+.active{
+color: #11a18e;
+font-weight: bolder;
+margin: 30px;
+font-size: large;
+text-decoration: none;
+position: relative;
+left: 450px;
+
+}
+
+.active-home{
+color: #1f9484;
+font-weight: bolder;
+font-size: 25px;
+text-decoration: none;
+position: absolute;
+left: 300px;
+}
+
+.active:hover{
+color: #7ad0c3;
+}
+
+.top-container{
+background: #defefa;
+position: relative;
+padding-top: 130px;
+
+}
+.name{
+padding: 0%;
+position: relative;
+top: 40px;
+}
+
+.top-cloud{
+width: 300px;
+height: 150px;
+position: absolute;
+right: 250px;
+top: 50px;
+
+
+
+}
+
+.bottom-cloud{
+width: 300px;
+height: 150px;
+position: absolute;
+/* bottom: 300px; */
+left: 250px;
+
+}
